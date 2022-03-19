@@ -29,7 +29,7 @@ VPN-аккаунты можно купить по ссылкам:
 - [SurfShark до 2023 года](https://hstock.org/product/surfshark-vpn-2023-37f2761d)
 
 - [NordVPN до 2025 года](https://hstock.org/product/nordvpn-dostup-do-2025g-garantiya-eec92f68)
-```
+
 
 Ссылки для скачивания:
 
