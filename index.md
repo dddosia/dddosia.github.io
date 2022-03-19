@@ -6,8 +6,6 @@ layout: default
 
 ## Описание
 
-![Image](./dddosia.jpg)
-
 ПО для нагрузочного тестирования HTTP/HTTPS ресурсов
 
 
