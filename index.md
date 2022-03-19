@@ -1,6 +1,8 @@
-# Dosia - лучшее, что случалось с DDoS'ом
+# Dosia
 
 ## Описание
+
+![Image](./dddosia.jpg)
 
 ПО для нагрузочного тестирования HTTP/HTTPS ресурсов
 
@@ -23,11 +25,11 @@
 ```
 
 VPN-аккаунты можно купить по ссылкам:
+```markdown
+- [SurfShark до 2023 года](https://hstock.org/product/surfshark-vpn-2023-37f2761d)
 
-[SurfShark до 2023 года](https://hstock.org/product/surfshark-vpn-2023-37f2761d)
-
-[NordVPN до 2025 года](https://hstock.org/product/nordvpn-dostup-do-2025g-garantiya-eec92f68)
-
+- [NordVPN до 2025 года](https://hstock.org/product/nordvpn-dostup-do-2025g-garantiya-eec92f68)
+```
 
 Ссылки для скачивания:
 
