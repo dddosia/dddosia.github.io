@@ -32,13 +32,6 @@ VPN-аккаунты можно купить по ссылкам:
 
 - [NordVPN до 2025 года](https://hstock.org/product/nordvpn-dostup-do-2025g-garantiya-eec92f68)
 
-
-Ссылки для скачивания:
-
-[Mac M1](https://github.com/dddosia/dddosia.github.io/raw/main/dosia-mac-M1.zip)
-
-[Windows](https://github.com/dddosia/dddosia.github.io/raw/main/windows-x64.zip)
-
 ***Для увеличения производительности программы, рекомендуется запускать несколько окон программы.
 Программа потребляет большой объем интернет-трафика.
 Учитывайте это, если у Вас лимитированный тарифный план***
