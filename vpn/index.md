@@ -6,7 +6,7 @@ layout: vpn
 
 ## NordVPN
 
-Вам должны были предоставить логин/пароль для доступа к NordVPN
+Если у вас уже есть аккаунт для доступа к NordVPN, то следуйте инструкции
 
 1. [Заходим на официальный сайт](https://my.nordaccount.com/) и авторизуемся, затем на левой вкладке находим кнопку Downloads и скачиваем приложение под вашу ОС.
 
@@ -21,7 +21,7 @@ layout: vpn
 
 4. Переходим в настройки "Auto-connect" или "Автоподключение", здесь нам нужно выбрать страну, к серверам которой VPN будет автоматически подключаться при обрыве соединения. Включаем опцию и выбираем страну "Украина"
 
-![Image](https://dddosia.github.io/images/autoconnect_nordvpn.png)
+  ![Image](https://dddosia.github.io/images/autoconnect_nordvpn.png)
 
 
 > Это нужно для наилучшей стабильности и максимальной производительности приложения
@@ -40,12 +40,12 @@ layout: vpn
 
 3. Включаем настройку KillSwitch, чтобы при обрыве VPN-соединения приложение не продолжало пользоваться доступом в интернет
 
-![Image](https://dddosia.github.io/images/KillSwitch.png)
+  ![Image](https://dddosia.github.io/images/KillSwitch.png)
 
 
 4. Переходим в настройки и в пункте "Настройки VPN", выбираем пункт "Автоподключение", включаем его и в параметрах опции указываем сервер "Украина"
 
-![Image](https://dddosia.github.io/images/autoconnect.png)
+  ![Image](https://dddosia.github.io/images/autoconnect.png)
 
 > Это нужно для наилучшей стабильности и максимальной производительности приложения
 
