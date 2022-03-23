@@ -28,7 +28,7 @@ layout: vpn
 
 + Так же в пункте General или "Основные" изменить Протокол на OpenVPN (UDP)
 
-  >[Image](https://dddosia.github.io/images/protocol.png)
+  >![Image](https://dddosia.github.io/images/protocol.png)
 
 + Подключаемся по VPN к украинскому серверу и запускаем приложение.
 
