@@ -20,17 +20,19 @@
     <header class="page-header" role="banner">
       <h1 class="DOSIA">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
+      <!--{% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
+      {% endif %}-->
       {% if site.show_downloads %}
-        <a href="releases/dosia_macOS_arm64_v2.zip" class="btn">Download for Mac M1</a>
-        <a href="releases/dosia_macOS_amd64_v2.zip" class="btn">Download for Mac Intel</a>
-        <a href="releases/dosia_linux_x86_v2.zip" class="btn">Download for Linux x86</a>
-        <a href="releases/dosia_linux_amd64_v2.zip" class="btn">Download for Linux x64</a>
-        <a href="releases/dosia_win_x86_v2.zip" class="btn">Download for Windows x86</a>
-        <a href="releases/dosia_win_x64_v2.zip" class="btn">Download for Windows x64</a>
+        <a href="../releases/dosia_macOS_arm64_v2.zip" class="btn">Download for Mac M1</a>
+        <a href="../releases/dosia_macOS_amd64_v2.zip" class="btn">Download for Mac Intel</a>
+        <a href="../releases/dosia_linux_x86_v2.zip" class="btn">Download for Linux x86</a>
+        <a href="../releases/dosia_linux_amd64_v2.zip" class="btn">Download for Linux x64</a>
+        <a href="../releases/dosia_win_x86_v2.zip" class="btn">Download for Windows x86</a>
+        <a href="../releases/dosia_win_x64_v2.zip" class="btn">Download for Windows x64</a>
+<!--
         <a href="https://dddosia.github.io/vpn/" class="btn">Инструкция по VPN</a>
+-->
       {% endif %}
     </header>
 
